@@ -21,9 +21,9 @@ Please note, both main project code and deployable app is there to check, inside
 
 1. Run spring boot application by running **./gradlew bootRun** from root project folder .
 
-2. Once spring boot application is up and running, please go to (project root)/src/main/greeting-ui:
+2. Once spring boot application is up and running, please go to greeting-ui from command line:
 
-    > cd <project root>/src/main/greeting-ui
+    > cd greeting-ui
 
 3. Now angular application can be started by command:
 
