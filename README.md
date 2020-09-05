@@ -1,1 +1,1 @@
-# curd-angular-ui
+# greeting-ui
